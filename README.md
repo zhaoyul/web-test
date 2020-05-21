@@ -8,7 +8,7 @@ FIXME: description
 
 ### UI Auto Test
 #### 计划和步骤
-    - 计划: 使用webdriver驱动页面完成页面级的单元测试
+    - 计划: 使用[webdriver](https://sites.google.com/a/chromium.org/chromedriver/)驱动页面完成页面级的单元测试
     - [100%] 步骤
       - [X] 在project.clj中引入库依赖
       - [X] 安装chromedriver
